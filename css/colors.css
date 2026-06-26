@@ -1,0 +1,35 @@
+
+:root {
+  --ids__text-default-RGB:        22, 22, 22;      
+  --ids__text-soft-RGB:        111, 111, 111; 
+  --ids__text-mute-RGB:        168, 168, 168; 
+  --ids__text-inverted-RGB:        255, 255, 255;    
+
+  --ids__accent-default-RGB:        138, 63, 252;      
+  --ids__accent-soft-RGB:        190, 149, 255; 
+  --ids__accent-mute-RGB:        232, 218, 255; 
+
+  --ids__surface-1-RGB:        250, 250, 250; 
+  --ids__surface-2-RGB:        244, 244, 244; 
+  --ids__elevated-RGB:       255, 255, 255;
+
+  --ids__link-RGB:      15, 98, 254;
+  --ids__hover-RGB:      80, 199, 113;
+
+  --ids__outline-default-RGB:        198, 198, 198;      
+  --ids__outline-soft-RGB:        224, 224, 224; 
+
+  --ids__code-RGB:        115, 120, 125;
+}
+
+body {
+  color: rgba(var(--ids__text-default-RGB), 1);
+  background-color: rgba(var(--ids__surface-1-RGB), 1);
+}
+
+
+
+
+
+
+
